@@ -6,8 +6,8 @@ Through a thorough controls checklist, I identified key areas needing improvemen
 
 Upon receiving the Botium Toys scope, goals, and risk assessment report, I reviewed the entire company's security program and completed the controls and compliance checklist to mark what the company deploys according to standard industry security practices. I then determined the best practices Botium Toys should employ moving forward by writing a statement of recommendation addressed to the company.
 
-# Tools and Regulations Used
+<ins>Tools and Regulations Used</ins>
 - Google Docs
 - General Data Protection Regulation (GDPR)
 - Payment Card Industry Data Security Standard (PCI DSS)
-- Systems and Organizations controls (SOC1, SOC2)
+- Systems and Organizations controls (SOC Type 1, SOC Type 2)
