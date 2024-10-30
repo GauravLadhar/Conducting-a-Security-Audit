@@ -10,3 +10,4 @@ Upon receiving the Botium Toys scope, goals, and risk assessment report, I revie
 - Google Docs
 - General Data Protection Regulation (GDPR)
 - Payment Card Industry Data Security Standard (PCI DSS)
+- Systems and Organizations controls (SOC1, SOC2)
